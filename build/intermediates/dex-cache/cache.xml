@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e57cf223a53309b26069db02fee5960420f6e695">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_175e95a5f3ae277406358191e8b23bd55b7a3896\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0edafe7dd63da6fa84c9ea8ff5edeba6bf2744db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b31d0aa2f53ca9a3459d7a6320ada2d0338916e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ZJJ\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_78ac853662beea9dd039c501ebbcef6d08768e54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-glide-transformations-2.0.1_72f1d1adacb90d3a6855ead22dc4488076b09880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0a56580115db128385b7e0aa1041ab02f60b128">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1ef017f4d3fd6254b451b76128d03dab9087959c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\develop\SDK\androidsdk_0725\androidsdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9528c260578a749c0eef9197d943e3416c90062c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6c44f33b4bb9a7e35e28b71d8f9727e9da86084f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f295c98212e699b14683fe496336eb88e4620115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_04c231b4ad89cb6f4bd50c47a2e4026fc78fc781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_134c6650c1940a1bce469e51b3ebf82ad51f3865\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_3ad9a165c453ed9ec30bad1ec8e4bf3339b3d665\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c3d2531b68f481ff72afe9e8b15783e63b72ebd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4ef5de42638d94536ed4cf5cf2a4a00434401234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_c14a0b0f41ac49dbd8707f6610f389abea75a80a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_0112ca07d3b65ee7c145cc58515255bf74b385e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_902cde6908dc7b4072a60adc5554252f02d02d54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_7b026dbb36b7687dc9c798b537254d962e967b42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_1bc4f77806f6b9cf71492231ac2377ad61914810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_26ffa360cceae4de63e4ef9052e267c8aee542cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\GitHub\sttt\RecycleViewCardVIew\RecyclerViewCardView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_0ca02f967a6ddbb855a0bfe484a3ce909205c0b2\classes.dex" />
+    </item>
+
+</items>
